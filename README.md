@@ -1,14 +1,15 @@
 # Dog-Breed
 Dog-Breed is an App that gives you different kinds of Dogs breed and other informations about the Dogs like Name, Age, and Abilities
 
-# LIBRARIES USED
-Retrofit and RxJava
-Glide Image Loader
-Room Database
-Palette
-DataBinding
-Notification
-Preferenes
+# LIBRARIES ? TECHNOLOGIES USED
+Retrofit and RxJava,
+Android Navigation,
+Glide Image Loader,
+Room Database,
+Palette,
+DataBinding,
+Notification,
+Preferenes,
 Permissions and Sharing
 
 
